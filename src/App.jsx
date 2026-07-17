@@ -254,7 +254,7 @@ function App() {
               Subscribe to <br /> our newsletter
             </h2>
             <p>To make your stay special and even more memorable.</p>
-            <a className="button" href="mailto:info@elementum.com">
+            <a className="button" href="mailto:sameerwalikar999@gmail.com">
               Subscribe Now
             </a>
           </div>
