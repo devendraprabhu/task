@@ -83,7 +83,7 @@ const footerLinks = [
   },
   {
     title: 'Terms & Policies',
-    links: ['1499 Fulton st, STE 2D Chicago, IL 63687', '(123) 45678900', 'info@elementum.com'],
+    links: ['1499 Fulton st, STE 2D Chicago, IL 63687', '(123) 45678900', 'sameerwalikar999@gmail.com'],
   },
 ]
 

@@ -1152,10 +1152,7 @@ h1 span {
 .text-link,
 .button,
 .service-row,
-.service-row__title,
-.avatar,
-.mini-avatar,
-.circle-frame {
+.service-row__title {
   cursor: pointer;
 }
 
